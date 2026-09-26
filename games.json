@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "games": [
+    {
+      "id": "odyssey",
+      "icon": "icons/odyssey.png",
+      "name": "Anime Vanguards",
+      "tagline": "Zayda's Vanguards Macro",
+      "exe": "Zayda's Macros.exe",
+      "folder": "Zayda's Macros",
+      "free": "https://github.com/ZaydaXD/odyssey-updates/releases/latest/download/ZaydasOdyssey.zip",
+      "premium": true
+    },
+    {
+      "id": "expeditions",
+      "icon": "icons/expeditions.png",
+      "name": "Anime Expeditions",
+      "tagline": "Zayda's Expeditions Macro",
+      "exe": "Anime Expeditions.exe",
+      "folder": "ZaydaAnimeExpeditions",
+      "free": "https://github.com/ZaydaXD/expeditions-updates/releases/latest/download/AnimeExpeditions.zip",
+      "premium": true
+    },
+    {
+      "id": "slayers",
+      "icon": "icons/slayers.png",
+      "name": "Slayers Fisher",
+      "tagline": "Zayda's Slayers 2 Fishing Macro",
+      "exe": "SlayersFisher.exe",
+      "folder": "SlayersFisher",
+      "free": "https://github.com/ZaydaXD/slayers-updates/releases/latest/download/SlayersFisher.zip",
+      "premium": false
+    }
+  ]
+}
