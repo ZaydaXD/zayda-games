@@ -22,6 +22,16 @@
       "premium": true
     },
     {
+      "id": "adventures",
+      "icon": "icons/adventures.png",
+      "name": "Anime Adventures",
+      "tagline": "Zayda's Adventures Macro",
+      "exe": "Anime Adventures.exe",
+      "folder": "ZaydaAnimeAdventures",
+      "free": "https://github.com/ZaydaXD/adventures-updates/releases/latest/download/AnimeAdventures.zip",
+      "premium": false
+    },
+    {
       "id": "slayers",
       "icon": "icons/slayers.png",
       "name": "Slayers Fisher",
